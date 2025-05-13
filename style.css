@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+    transition: background-color 0.1s ease-in-out;
+}
+
+body:hover {
+    background-color:white;
+    transition: background-color 0.1s ease-in-out;
+}
+
+body{
+    color: white;
+    text-align: center;
+    transition: color 0.1s ease-in-out;
+}
+
+body:hover {
+    color:black;
+    transition: color 0.1s ease-in-out;
+}
